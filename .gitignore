@@ -1,0 +1,22 @@
+# Maven build
+/target/
+
+# TestNG output
+/test-output/
+/logs/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA (if ever opened)
+/.idea/
+/*.iml
+
+# Log files
+*.log
